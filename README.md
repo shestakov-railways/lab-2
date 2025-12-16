@@ -33,3 +33,5 @@ Visuals:
 
 - Non cumulative and cumulative histogram Defense
 <img width="447" height="266" alt="image" src="https://github.com/user-attachments/assets/763da214-15e4-4484-bb65-815f9d7c0652" />
+
+HTML of Jypeter notebook: https://generative-ai.b-cdn.net/jupyter.html
